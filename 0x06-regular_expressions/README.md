@@ -1,4 +1,4 @@
-# 0x06. Regular expression in py
+# 0x06. Regular expression 
 
 ## Resource
 
